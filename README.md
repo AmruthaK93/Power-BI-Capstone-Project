@@ -17,5 +17,5 @@ Power BI Desktop Software
   1. COVID 19 Summary Statistics - over all analysis
   2. COVID 19 Trends - Forecasts
   3. COVID 19 region wise statistics
-  4. Add buttons to navigate through pages
+  4. Buttons to navigate through pages
   5. Bookmark for different visualizations
